@@ -49,7 +49,7 @@ Following the configuration of "Roles," I continued forward with the "Department
 
 </p>
 <p>
-The third configuration in this post-installation setup started with the development of "Teams." At this stage, I clicked on "Agent" > "Teams" > and then "Add New Team." I named the group, for the purpose of this exercise, "Online Banking" with one administrative member at this point in its construction.
+The third configuration in this post-installation setup started with the development of "Teams." At this stage, I clicked on "Agent" > "Teams" > and then "Add New Team." I named the group, for the purpose of this exercise, "Online Banking" with one administrative member.
 </p>
 <p>
 <img width="1099" alt="Screenshot 2025-03-29 at 4 14 11 PM" src="https://github.com/user-attachments/assets/13add156-b2fe-46e0-96cf-e68d067e6dc5" />
