@@ -52,7 +52,8 @@ Following the configuration of "Roles," I continued forward with the "Department
 The third configuration in this post-installation setup started with the development of "Teams." At this stage, I clicked on "Agent" > "Teams" > and then "Add New Team." I named the group, for the purpose of this exercise, "Online Banking" with one administrative member at this point in its construction.
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1099" alt="Screenshot 2025-03-29 at 4 14 11 PM" src="https://github.com/user-attachments/assets/13add156-b2fe-46e0-96cf-e68d067e6dc5" />
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
