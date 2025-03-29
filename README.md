@@ -36,10 +36,11 @@ Now that I have completed the osTicket installation, I began the process of esta
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1099" alt="Screenshot 2025-03-29 at 3 25 23 PM" src="https://github.com/user-attachments/assets/781dcaa7-d37a-4349-80ab-2f07fdf971fa" />
+
 </p>
 <p>
-Following the configuration of "Roles," I continued forward with the "Departments" stage of configuration.
+Following the configuration of "Roles," I continued forward with the "Departments" stage of configuration. I created another department, in addition to "Maintainence" and "Support," for the special use of the "Supreme Admin" role. This particular department was also established in the "Top-Level Department" category.
 </p>
 <br />
 
