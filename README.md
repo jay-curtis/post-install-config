@@ -57,7 +57,7 @@ The third configuration in this post-installation setup started with the develop
 
 </p>
 <p>
-Having laid the foundation with "Roles," "Departments," and "Teams," I made two separate agents or employees with differing access levels and differing departments. The first agent account  was for "Jane Doe." The second agent account had the name of "John Doe." I gave Jane's account access to the "Supreme Admin" role, the "SysAdmin" department, and to the "Online Banking" team. In regards to John Doe, on the other hand, I only gave his account limited access within the "Support" department and with "read-only" privileges.
+Having laid the foundation with "Roles," "Departments," and "Teams," I made two separate agents or employees with differing access levels and differing departments. The first agent account  was for "Jane Doe." The second account was for "John Doe." I gave Jane's account access to the "Supreme Admin" role, the "SysAdmin" department, and to the "Online Banking" team. In regards to John Doe, on the other hand, I only gave his account limited access with the "Support" department and with "read-only" privileges.
 </p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
