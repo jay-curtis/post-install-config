@@ -47,6 +47,7 @@ Following the configuration of "Roles," I continued forward with the "Department
 <p>
 <img width="1099" alt="Screenshot 2025-03-29 at 3 53 18 PM" src="https://github.com/user-attachments/assets/d419849a-2eff-4b3b-8f40-6f1a520ccfdf" />
 
+</p>
 <p>
 The third configuration in this post-installation setup started with the development of "Teams." At this stage, I clicked on "Agent" > "Teams" > and then "Add New Team." I named the group, for the purpose of this exercise, "Online Banking" with one administrative member at this point in its construction.
   
@@ -56,7 +57,7 @@ The third configuration in this post-installation setup started with the develop
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Having laid the foundation with "Roles," "Departments," and "Teams," I made two separate agents or employees with differing access levels and differing departments. The first agent account  was for "Jane Doe." The second agent account had the name of "John Doe." I gave Jane's account access to the "Supreme Admin" role, the "SysAdmin" department, and to the "Online Banking" team. In regards to John Doe, on the other hand, I only gave his account limited access within the "Support" department and with "read-only" privileges.
 </p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
