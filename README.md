@@ -45,10 +45,11 @@ Following the configuration of "Roles," I continued forward with the "Department
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1099" alt="Screenshot 2025-03-29 at 3 53 18 PM" src="https://github.com/user-attachments/assets/d419849a-2eff-4b3b-8f40-6f1a520ccfdf" />
+
 </p>
 <p>
-The third configuration in this post-installation setup pertains to the development of "Teams."
+The third configuration in this post-installation setup started with the development of "Teams." At this stage, I clicked on "Agent" > "Teams" > and then "Add New Team." I named the group, for the purpose of this exercise, "Online Banking" with only one administrator member at this point.
 </p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
