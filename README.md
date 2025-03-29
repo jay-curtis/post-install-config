@@ -31,7 +31,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img width="1118" alt="Screenshot 2025-03-29 at 3 12 46 PM" src="https://github.com/user-attachments/assets/aa5d0fe0-0ac0-4e2d-8bfb-eab37fbe1ac4" />
 </p>
 <p>
-Now that I have completed the osTicket installation, I began the process of establishing each necessary configuration within the network. The first of which was making an administrative role under the "Roles" section. I therefore signed into my administrator account into osTicket. I then double-clicked on "Admin Panel" > clicked on "Agents," > "Add New Role," > and then entered the title "Supreme Admin."
+Now that I have completed the osTicket installation, I began the process of establishing each necessary configuration within the network. The first of which was making an administrative role under the "Roles" section. I therefore signed into my administrator account into osTicket. I then double-clicked on "Admin Panel" > clicked on "Agents," > "Add New Role," > and then entered the title "Supreme Admin." From there, I gave the said account complete authorization for "Permissions," including for "Tickets," "Tasks," and "Knowledgebase."
 </p>
 <br />
 
