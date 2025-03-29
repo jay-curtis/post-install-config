@@ -49,7 +49,7 @@ Following the configuration of "Roles," I continued forward with the "Department
 
 </p>
 <p>
-The third configuration in this post-installation setup started with the development of "Teams." At this stage, I clicked on "Agent" > "Teams" > and then "Add New Team." I named the group, for the purpose of this exercise, "Online Banking" with only one administrator member at this point.
+The third configuration in this post-installation setup started with the development of "Teams." At this stage, I clicked on "Agent" > "Teams" > and then "Add New Team." I named the group, for the purpose of this exercise, "Online Banking" with one administrative member at this point in its construction.
 </p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
