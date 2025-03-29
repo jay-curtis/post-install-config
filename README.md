@@ -31,7 +31,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now that I have completed the osTicket installation, I began the process of establishing each necessary configuration within the network. The first of which was making an administrator account role in the "Roles" section.
+Now that I have completed the osTicket installation, I began the process of establishing each necessary configuration within the network. The first of which was making an administrative role under the "Roles" section.
 </p>
 <br />
 
