@@ -66,7 +66,7 @@ Having laid the foundation with "Roles," "Departments," and "Teams," I made two 
 The next stage in my osTicket configuration was the creation of "User" or customer accounts. I made one by the name of Karen, and another one by the name of Ken. Each one of them received "Guest" level status with their respective emails and usernames. I did this by simply clicking on "Agent Panel" > "Users" > and then "Add New." From there, I established their accounts by filling out their respective information into the required fields.
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1099" alt="Screenshot 2025-03-31 at 2 38 21 PM" src="https://github.com/user-attachments/assets/735ffd71-ba5b-4c59-af3f-f4927b763eb8" />
 </p>
 <p>
 The sixth configuration step revolved around the establishment and management of Service Level Agreements (SLAs). I started by clicking on "Admin Panel" > "Manage" > and then "SLA." At this point, I clicked on "Add New SLA Plan" and created three different severity levels for sorting any incoming tickets. I named the first and most severe level, "Sev-A." It had a grace period of 1 hour and a schedule of 24/7. I named the second and intermediate level, "Sev-B." It had a grace period of a maximum of 4 hours and a schedule of 24/7. The
