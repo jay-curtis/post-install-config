@@ -75,7 +75,6 @@ The sixth configuration step revolved around the establishment and management of
   <img width="1099" alt="Screenshot 2025-03-31 at 2 55 05 PM" src="https://github.com/user-attachments/assets/f6ab7402-f58a-4c64-80d9-3e20010e48bc" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+With all of the prior post-configuaration steps completed, I concluded by implementing my osTicket platform with "Help Topics."
 <p>
 <br /># post-install-config
