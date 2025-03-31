@@ -75,6 +75,6 @@ The sixth configuration step revolved around the establishment and management of
   <img width="1099" alt="Screenshot 2025-03-31 at 2 55 05 PM" src="https://github.com/user-attachments/assets/f6ab7402-f58a-4c64-80d9-3e20010e48bc" />
 </p>
 <p>
-With all of the prior post-configuaration steps completed, I concluded by implementing my osTicket platform with "Help Topics."
+With all of the prior post-configuaration steps completed, I concluded the process by creating new osTicket "Help Topics." I began by going to and clicking on "Admin Panel" > "Manage" > and then "Help Topics." I also clicked "Add New Help Topic," and then I outlined 5 help topics to aid users in creating their tickets. 
 <p>
 <br /># post-install-config
