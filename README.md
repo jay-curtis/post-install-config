@@ -69,7 +69,7 @@ The next stage in my osTicket configuration was the creation of "User" or custom
 <img width="1099" alt="Screenshot 2025-03-31 at 2 38 21 PM" src="https://github.com/user-attachments/assets/735ffd71-ba5b-4c59-af3f-f4927b763eb8" />
 </p>
 <p>
-The sixth configuration step revolved around the establishment and management of Service Level Agreements (SLAs). I started by clicking on "Admin Panel" > "Manage" > and then "SLA." At this point, I clicked on "Add New SLA Plan" and created three different severity levels for sorting any incoming tickets. I named the first and most severe level, "Sev-A." It had a grace period of 1 hour and a schedule of 24/7. I named the second and intermediate level, "Sev-B." It had a grace period of a maximum of 4 hours and a schedule of 24/7. The
+The sixth configuration step revolved around the establishment and management of Service Level Agreements (SLAs). I started by clicking on "Admin Panel" > "Manage" > and then "SLA." At this point, I clicked on "Add New SLA Plan" and created three different severity levels for sorting any incoming tickets. I named the first and most severe level, "Sev-A." It had a grace period of 1 hour and a schedule of 24/7. I named the second and intermediate level, "Sev-B." It had a grace period of a maximum of 4 hours and a schedule of 24/7. I named the last and least severe level, "Sev-C." This plan had a grace period of 8 hours, and a schedule consisting of Monday through Friday, 8am to 5pm with the inclusion of U.S. holidays.
 </p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
