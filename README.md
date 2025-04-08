@@ -3,12 +3,12 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+This lesson demonstrates the subsequent formatting steps necessary for the osTicket help desk platform.<br />
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Microsoft Azure (Virtual Machine)
+- Microsoft Windows App
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
