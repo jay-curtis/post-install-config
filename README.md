@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Post-Installation Arrangements</h1>
+<h1>osTicket - Post-Install Arrangements</h1>
 This lesson demonstrates the subsequent arrangement steps necessary for the osTicket help desk platform.<br />
 
 <h2>Environments and Technologies Used</h2>
