@@ -7,7 +7,7 @@ This lesson demonstrates the subsequent formatting steps necessary for the osTic
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machine)
+- Microsoft Azure's Virtual Machine Platform
 - Microsoft Windows App
 - Internet Information Services (IIS)
 
