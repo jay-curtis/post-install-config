@@ -2,8 +2,8 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Post-Install Formation</h1>
-This lesson demonstrates the subsequent formatting steps necessary for the osTicket help desk platform.<br />
+<h1>osTicket - Post-Install Arrangements</h1>
+This lesson demonstrates the subsequent arrangement steps necessary for the osTicket help desk platform.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -17,13 +17,13 @@ This lesson demonstrates the subsequent formatting steps necessary for the osTic
 
 <h2>Post-Install Formatting Goals</h2>
 
-- Formation of Roles
-- Formation of Departments
-- Formation of Teams
-- Formation of Agents (Employees)
-- Formation of Users (Customers)
-- Formation of Service Level Agreement (SLA)
-- Formation of Help Topics 
+- Arrangement of Roles
+- Arrangement of Departments
+- Arrangement of Teams
+- Arrangement of Agents (Employees)
+- Arrangement of Users (Customers)
+- Arrangement of Service Level Agreement (SLA)
+- Arrangement of Help Topics 
 
 <h2>Formation Steps</h2>
 
@@ -31,7 +31,7 @@ This lesson demonstrates the subsequent formatting steps necessary for the osTic
 <img width="1118" alt="Screenshot 2025-03-29 at 3 12 46 PM" src="https://github.com/user-attachments/assets/aa5d0fe0-0ac0-4e2d-8bfb-eab37fbe1ac4" />
 </p>
 <p>
-Now that I have completed the osTicket installation, I began the process of establishing each necessary format within the network. The first of which was making an administrative role under the "Roles" section. I therefore signed into my administrator account into osTicket. I then double-clicked on "Admin Panel" > clicked on "Agents," > "Add New Role," > and then entered the title "Supreme Admin." From there, I gave the said account complete authorization for "Permissions," including for "Tickets," "Tasks," and "Knowledgebase."
+Now that I have completed the osTicket installation, I began the process of establishing each necessary arrangement within the network. The first of which was making an administrative role under the "Roles" section. I therefore signed into my administrator account into osTicket. I then double-clicked on "Admin Panel" > clicked on "Agents," > "Add New Role," > and then entered the title "Supreme Admin." From there, I gave the said account complete authorization for "Permissions," including for "Tickets," "Tasks," and "Knowledgebase."
 </p>
 <br />
 
@@ -40,7 +40,7 @@ Now that I have completed the osTicket installation, I began the process of esta
 
 </p>
 <p>
-Following the development of "Roles," I continued forward with the "Departments" stage. I created another department, in addition to "Maintainence" and "Support," for the special use of the "Supreme Admin" role. This particular department was also established in the "Top-Level Department" category.
+Following the arrangement of "Roles," I continued forward with the "Departments" stage. I created another department, in addition to "Maintainence" and "Support," for the special use of the "Supreme Admin" role. This particular department was also established in the "Top-Level Department" category.
 </p>
 <br />
 
@@ -49,7 +49,7 @@ Following the development of "Roles," I continued forward with the "Departments"
 
 </p>
 <p>
-The third format in this post-installation process started with the development of "Teams." At this stage, I clicked on "Agent" > "Teams" > and then "Add New Team." I named the group, for the purpose of this exercise, "Online Banking" with one administrative member at this point in its construction.
+The third arrangement in this post-installation process started with the development of "Teams." At this stage, I clicked on "Agent" > "Teams" > and then "Add New Team." I named the group, for the purpose of this exercise, "Online Banking" with one administrative member at this point in its construction.
   
 </p>
 <p>
@@ -63,13 +63,13 @@ Having laid the foundation with "Roles," "Departments," and "Teams," I made two 
 <img width="1099" alt="Screenshot 2025-03-31 at 1 57 29 PM" src="https://github.com/user-attachments/assets/d6fb0ee0-c521-46e7-aec4-2d2f8549f900" />
 </p>
 <p>
-The next stage in my osTicket format was the creation of "User" or customer accounts. I made one by the name of Karen, and another one by the name of Ken. Each one of them received "Guest" level status with their respective emails and usernames. I did this by simply clicking on "Agent Panel" > "Users" > and then "Add New." From there, I established their accounts by filling out their respective information into the required fields.
+The next stage in my osTicket arrangement was the creation of "User" or customer accounts. I made one by the name of Karen, and another one by the name of Ken. Each one of them received "Guest" level status with their respective emails and usernames. I did this by simply clicking on "Agent Panel" > "Users" > and then "Add New." From there, I established their accounts by filling out their respective information into the required fields.
 </p>
 <p>
 <img width="1099" alt="Screenshot 2025-03-31 at 2 38 21 PM" src="https://github.com/user-attachments/assets/735ffd71-ba5b-4c59-af3f-f4927b763eb8" />
 </p>
 <p>
-The sixth formatting step revolved around the establishment and management of Service Level Agreements (SLAs). I started by clicking on "Admin Panel" > "Manage" > and then "SLA." At this point, I clicked on "Add New SLA Plan" and created three different severity levels for sorting any incoming tickets. I named the first and most severe level, "Sev-A." It had a grace period of 1 hour and a schedule of 24/7. I named the second and intermediate level, "Sev-B." It had a grace period of a maximum of 4 hours and a schedule of 24/7. I named the last and least severe level, "Sev-C." This plan had a grace period of 8 hours, and a schedule consisting of Monday through Friday, 8am to 5pm with the inclusion of U.S. holidays.
+The sixth arrangement step revolved around the establishment and management of Service Level Agreements (SLAs). I started by clicking on "Admin Panel" > "Manage" > and then "SLA." At this point, I clicked on "Add New SLA Plan" and created three different severity levels for sorting any incoming tickets. I named the first and most severe level, "Sev-A." It had a grace period of 1 hour and a schedule of 24/7. I named the second and intermediate level, "Sev-B." It had a grace period of a maximum of 4 hours and a schedule of 24/7. I named the last and least severe level, "Sev-C." This plan had a grace period of 8 hours, and a schedule consisting of Monday through Friday, 8am to 5pm with the inclusion of U.S. holidays.
 </p>
 <p>
   <img width="1099" alt="Screenshot 2025-03-31 at 2 55 05 PM" src="https://github.com/user-attachments/assets/f6ab7402-f58a-4c64-80d9-3e20010e48bc" />
