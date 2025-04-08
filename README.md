@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Post-Install Arrangements</h1>
+<h1>osTicket - Post-Installation Arrangements</h1>
 This lesson demonstrates the subsequent arrangement steps necessary for the osTicket help desk platform.<br />
 
 <h2>Environments and Technologies Used</h2>
@@ -49,7 +49,7 @@ Following the arrangement of "Roles," I continued forward with the "Departments"
 
 </p>
 <p>
-The third arrangement in this post-installation process started with the development of "Teams." At this stage, I clicked on "Agent" > "Teams" > and then "Add New Team." I named the group, for the purpose of this exercise, "Online Banking" with one administrative member at this point in its construction.
+The third arrangement in this post-installation started with the development of "Teams." At this stage, I clicked on "Agent" > "Teams" > and then "Add New Team." I named the group, for the purpose of this exercise, "Online Banking" with one administrative member at this point in its construction.
   
 </p>
 <p>
